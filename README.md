@@ -23,6 +23,8 @@ Apply the respective filters - Sobel, Laplacian edge detector and Canny edge det
 ### Step5:
 Display the filtered image using plot and imshow.
 <br>
+## Developed by: Amurtha vaahini.KN 
+## Register no: 212222240008
 
  
 ## Program:
